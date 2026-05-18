@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 # Hi, there! It's Minh Đức! 👋
 
@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am ✨ **Minh Đức** ✨, currently a student passionate about **Data Analysis**. I'm building my foundation in data tools and actively seeking opportunities to apply what I've learned in real-world projects.
+I am ✨ **MINH DUC** ✨, currently a student passionate about **Data Analysis**. I'm building my foundation in data tools and actively seeking opportunities to apply what I've learned in real-world projects.
 
 🔹 Currently learning and improving my skills in **SQL**, **Power BI**, and **Excel**  
 🔹 Looking for **internship** or **entry-level opportunities** in Data Analytics  
