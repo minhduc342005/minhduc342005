@@ -1,7 +1,8 @@
-<imgalign="right" alt="Coding" width="300" src=" https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-# Hi, there! It's Minh Đức! 👋
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+# Hi, there! It's MINH DUC! 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=minhduc342005&color=orange&style=flat)
 
 ## 🚀 About Me
 
