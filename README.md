@@ -2,11 +2,11 @@
 
 # Hi, there! It's Minh Đức! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=minhduc342005&color=orange&style=flat)
+
 
 ## 🚀 About Me
 
-I am ✨ **Minh Đức** ✨, currently a student passionate about **Data Analysis** and . I'm building my foundation in data tools and actively seeking opportunities to apply what I've learned in real-world projects.
+I am ✨ **Minh Đức** ✨, currently a student passionate about **Data Analysis**. I'm building my foundation in data tools and actively seeking opportunities to apply what I've learned in real-world projects.
 
 🔹 Currently learning and improving my skills in **SQL**, **Power BI**, and **Excel**  
 🔹 Looking for **internship** or **entry-level opportunities** in Data Analytics  
