@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="300" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-22-865_512.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # Hi, there! It's Minh Đức! 👋
 
@@ -6,25 +6,36 @@
 
 ## 🚀 About Me
 
-I am ✨ **Minh Đức** ✨, [viết về bản thân ở đây: đang học gì, ở đâu, đam mê gì].
-[Thêm 2-3 câu về kinh nghiệm hoặc mục tiêu của bạn].
-My passion lies in using data-driven insights to solve complex problems.
-Let's connect and explore together!
+I am ✨ **Minh Đức** ✨, currently a student passionate about **Data Analysis** and **Business Intelligence**. I'm building my foundation in data tools and actively seeking opportunities to apply what I've learned in real-world projects.
+
+🔹 Currently learning and improving my skills in **SQL**, **Power BI**, and **Excel**  
+🔹 Looking for **internship** or **entry-level opportunities** in Data Analytics  
+🔹 Always eager to learn new technologies and grow with the team  
+🔹 Open to collaboration and feedback to become a better data professional  
+
+Let's connect and grow together! 🌱
 
 ## 🔭 My Interests
 
-- **Machine Learning & AI:** Building models that solve real-world problems.
-- **Data Visualization:** Creating impactful visual stories.
-- **Web Development:** [hoặc gì đó bạn thích]
-- **Generative AI:** Building tools with LLMs and RAG applications.
+- **Data Analysis:** Turning raw data into meaningful insights.
+- **Business Intelligence:** Building dashboards and reports that help decision-making.
+- **Data Visualization:** Telling stories through charts and visuals.
+- **Continuous Learning:** Exploring new tools and techniques every day.
+
+## 🛠 Current Skills
+
+- **Databases:** SQL (basic queries, joins, aggregations)
+- **Business Intelligence:** Power BI (dashboards, DAX basics)
+- **Spreadsheets:** Microsoft Excel (formulas, pivot tables, charts)
+- **Learning next:** Python for Data Analysis, advanced SQL
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/angminhuc.937204) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/minhduccate/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/angminhuc.937204) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/minhduccate/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-## 🛠 Tech Stack:
+## 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
 
@@ -37,5 +48,3 @@ Let's connect and explore together!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=minhduc342005&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
