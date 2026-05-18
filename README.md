@@ -2,8 +2,6 @@
 
 # Hi, there! It's MINH DUC! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=minhduc342005&color=orange&style=flat)
-
 ## 🚀 About Me
 
 I am ✨ **MINH DUC** ✨, currently a student passionate about **Data Analysis**. I'm building my foundation in data tools and actively seeking opportunities to apply what I've learned in real-world projects.
