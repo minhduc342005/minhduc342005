@@ -1,7 +1,4 @@
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
-https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
-https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif
-
+<imgalign="right" alt="Coding" width="300" src=" https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 # Hi, there! It's Minh Đức! 👋
 
 
