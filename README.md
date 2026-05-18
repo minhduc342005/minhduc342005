@@ -22,9 +22,9 @@ Let's connect and grow together! 🌱
 
 ## 🛠 Current Skills
 
-- **Databases:** SQL (basic queries, joins, aggregations)
-- **Business Intelligence:** Power BI (dashboards, DAX basics)
-- **Spreadsheets:** Microsoft Excel (formulas, pivot tables, charts)
+- **Programming languages: Python, SQL, R
+- **Data Visualization/Business Intelligence: Excel, Power BI, Matplotlib, Seaborn
+- **Data Analysis/Machine Learning/Deep Learning: Scikit-Learn, NumPy, Pandas
 - **Learning next:** Python for Data Analysis, advanced SQL
 
 ## 💻 Tech Stack:
