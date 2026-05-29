@@ -31,7 +31,7 @@ Let's connect and grow together! 🌱
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-🏦 Nova Bank — Credit Risk Analysis Dashboard
+## 🏦 Nova Bank — Credit Risk Analysis Dashboard
 
 - Cleaned and engineered features on 32K+ loan records using Python (Pandas)
 - Wrote 15 analytical SQL queries in SSMS covering portfolio health and borrower segmentation  
