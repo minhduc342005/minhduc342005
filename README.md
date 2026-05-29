@@ -35,7 +35,7 @@ Let's connect and grow together! 🌱
 
 ### 🏦 Nova Bank — Credit Risk Analysis & Default Prediction Dashboard
 
-🔗 Repository: [github.com/your-username/Nova-Bank-Credit-Risk-Analysis](https://github.com/your-username)
+🔗 Repository: [https://github.com/minhduc342005/Nova-Bank-Credit-Risk)
 
 - Performed EDA and data cleaning on 32K+ loan records across USA, UK & Canada using Python (Pandas)
 - Engineered risk features including LTI/DTI tiers, risk scoring model, and early warning flags
