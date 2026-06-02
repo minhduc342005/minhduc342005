@@ -43,12 +43,12 @@ Let's connect and grow together! 🌱
 - Built a 4-page interactive Power BI dashboard with 12 DAX measures and cross-page filtering
 - Identified key default drivers: loan grade, home ownership (4× gap), and income level (45.5% at <30K)
 
-📌 Featured Projects
-🏋️ MyGym California — Membership Analytics & Customer Segmentation Dashboard
+### 🏋️ MyGym California — Membership Analytics & Customer Segmentation Dashboard
+
 🔗 Repository: [link github của bạn]
 
-Performed EDA and data cleaning on 1,998 member records across 10 California branches using Python (Pandas), engineering 8 new features including LTV, tenure months, engagement score, and at-risk flags
-Built KMeans clustering model (K=4) with PCA visualization to identify 4 customer segments: Gold, Silver, Casual, and At-Risk, revealing that Gold members generate 6.5× higher LTV than At-Risk group
-Executed 34 analytical SQL queries in SQL Server (SSMS) covering revenue breakdown, churn risk cohorts, branch performance, add-on upsell opportunities, and multi-location access behavior
-Built a 4-page interactive Power BI dashboard with 8 DAX measures, cross-page slicers, and custom color theme, covering Executive Overview, Revenue & Churn Risk, Branch & Add-ons, and Segmentation & Behavior
-Identified key revenue drivers: membership tier (Elite LTV 4× higher than Basic), tenure length (>24 months members have 0% churn and $738 avg LTV), and PT adoption (9.4% LTV uplift vs non-PT users)
+- Performed EDA and data cleaning on 1,998 member records across 10 California branches using Python (Pandas), engineering 8 new features including LTV, tenure months, engagement score, and at-risk flags
+- Built KMeans clustering model (K=4) with PCA visualization to identify 4 customer segments: Gold, Silver, Casual, and At-Risk, revealing that Gold members generate 6.5× higher LTV than At-Risk group
+- Executed 34 analytical SQL queries in SQL Server (SSMS) covering revenue breakdown, churn risk cohorts, branch performance, add-on upsell opportunities, and multi-location access behavior
+- Built a 4-page interactive Power BI dashboard with 8 DAX measures, cross-page slicers, and custom color theme, covering Executive Overview, Revenue & Churn Risk, Branch & Add-ons, and Segmentation & Behavior
+- Identified key revenue drivers: membership tier (Elite LTV 4× higher than Basic), tenure length (>24 months members have 0% churn and $738 avg LTV), and PT adoption (9.4% LTV uplift vs non-PT users)
