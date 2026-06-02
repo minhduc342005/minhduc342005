@@ -45,7 +45,7 @@ Let's connect and grow together! 🌱
 
 ### 🏋️ MyGym California — Membership Analytics & Customer Segmentation Dashboard
 
-🔗 Repository: [link github của bạn]
+🔗 Repository: [https://github.com/minhduc342005/Fitness_Membership_Analytics]
 
 - Performed EDA and data cleaning on 1,998 member records across 10 California branches using Python (Pandas), engineering 8 new features including LTV, tenure months, engagement score, and at-risk flags
 - Built KMeans clustering model (K=4) with PCA visualization to identify 4 customer segments: Gold, Silver, Casual, and At-Risk, revealing that Gold members generate 6.5× higher LTV than At-Risk group
