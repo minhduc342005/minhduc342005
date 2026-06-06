@@ -56,8 +56,8 @@ Let's connect and grow together! 🌱
 ### 🗂️ CRM & Sales Pipeline Analytics — B2B Sales Intelligence Dashboard
 🔗 Repository: [https://github.com/minhduc342005/CRM-Sales-Pipeline-Analytics]
 
-Performed EDA and data cleaning on 3,000 B2B sales deals across 9 European countries using Python (Pandas), engineering 7 new features including deal duration, close delay, probability calibration flags, and rule-based at-risk scoring
-Analyzed full sales funnel revealing 2.77% overall conversion rate with critical bottleneck at Opportunity → Closed stage (16.6%), with 867 deals stagnating in pipeline
-Executed 19 analytical SQL queries in SQL Server (SSMS) covering pipeline health, agent performance, 3-method revenue forecasting, window functions (RANK, LAG, rolling averages), and lost opportunity root-cause analysis
-Built a 4-page interactive Power BI dashboard with 18 DAX measures, cross-page slicers, and conditional formatting — covering Overview, Pipeline & Market, Agent Performance, and Forecast & Risk
-Identified key revenue insights: IT & IT Services has highest win rate (81%), Agriculture & Mining should be exited (22% win rate confirmed across 4 analyses), and Probability-weighted forecast underestimates revenue by $228K due to systematic Sales underconfidence
+- Performed EDA and data cleaning on 3,000 B2B sales deals across 9 European countries using Python (Pandas), engineering 7 new features including deal duration, close delay, probability calibration flags, and rule-based at-risk scoring
+- Analyzed full sales funnel revealing 2.77% overall conversion rate with critical bottleneck at Opportunity → Closed stage (16.6%), with 867 deals stagnating in pipeline
+- Executed 19 analytical SQL queries in SQL Server (SSMS) covering pipeline health, agent performance, 3-method revenue forecasting, window functions (RANK, LAG, rolling averages), and lost opportunity root-cause analysis
+- Built a 4-page interactive Power BI dashboard with 18 DAX measures, cross-page slicers, and conditional formatting — covering Overview, Pipeline & Market, Agent Performance, and Forecast & Risk
+- Identified key revenue insights: IT & IT Services has highest win rate (81%), Agriculture & Mining should be exited (22% win rate confirmed across 4 analyses), and Probability-weighted forecast underestimates revenue by $228K due to systematic Sales underconfidence
